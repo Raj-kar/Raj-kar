@@ -39,9 +39,9 @@
         alt="Ashutosh's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Raj-kar/C-Plus-Plus">
+<a href="https://github.com/Raj-kar/Python">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-kar&repo=C-Plus-Plus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-kar&repo=Python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/Raj-kar/C-Plus-Plus">
@@ -66,6 +66,6 @@
 
 <div align="center">
 
-    <h3> Show some ❤️ by starring some of the repositories! </h3>
+    Show some ❤️ by starring some of the repositories!
 
 </div>
