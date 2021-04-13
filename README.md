@@ -16,7 +16,7 @@
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/OS-Windows%20&%20Linux-informational?style=flat&logo=windows&logoColor=white&color=7831D8)
-![](https://img.shields.io/badge/Editor-VS_Code%20&%20Pycharm%20&%20Eclipse-informational?style=flat&logo=vs-code&logoColor=white&color=#7831D8)
+![](https://img.shields.io/badge/Editor-VS_Code%20&%20Pycharm%20&%20Eclipse-informational?style=flat&logo=vs-code&logoColor=white&color=7831D8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=#7831D8)
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=#7831D8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=#7831D8)
