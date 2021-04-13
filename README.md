@@ -40,8 +40,7 @@
 </a>
 
 <a href="https://github.com/Raj-kar/Python">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-kar&repo=Python
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-kar&repo=Python
 &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
