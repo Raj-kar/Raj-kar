@@ -10,7 +10,7 @@
 - 📫 You can find me on my [portfolio site](http://pyraj.pythonanywhere.com/).
 
 <!-- links to your social media accounts -->
-[![Linkedin: RajKar](https://img.shields.io/badge/-Raj Kar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raj-kar-40b7281a3/)](https://www.linkedin.com/in/raj-kar-40b7281a3/)
+[![Linkedin: RajKar](https://img.shields.io/badge/-Raj-Kar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raj-kar-40b7281a3/)](https://www.linkedin.com/in/raj-kar-40b7281a3/)
 
 [![GitHub Raj-kar](https://img.shields.io/github/followers/Raj-kar?label=follow&style=social)](https://github.com/ashutoshkrris)
 
