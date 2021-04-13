@@ -65,7 +65,6 @@
 </a>
 
 <div align="center">
-
-    Show some ❤️ by starring some of the repositories!
-
+    Show some <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" alt="💖">
+    by starring some of the repositories!
 </div>
