@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raj-kar&label=Views&color=blue&style=plastic" alt="Raj Kar Profile view" /> </p>
 
-- ✔ I’m currently learning [React](https://reactjs.org/), [Python](https://python.org/) and [Java](https://www.java.com/en/).
+- ✔ I’m currently learning [React](https://reactjs.org/), [Django Rest](https://www.django-rest-framework.org/) and [Next Js](https://nextjs.org/).
 - 👯 Teaches programming languages.
 - 💬 Love programming ? Have some queries ?. 👇
 - 📫 You can find me on my [portfolio site](http://pyraj.pythonanywhere.com/).
