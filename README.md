@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raj-kar&label=Views&color=blue&style=plastic" alt="Raj Kar Profile view" /> </p>
 
-- ✔  I’m currently working on [NextJs](https://nextjs.org/) and [Django Rest framework](https://www.django-rest-framework.org/).
-- 👯 Try to learn  [React Native](https://reactnative.dev/), because I love Mobile App Development.
-- 🌌 Currently working to [College Space](https://clgspace.vercel.app/) to upskill my knowldge on NextJs & Django Rest. 
+- ✔  I’m currently working as a Software Engineer.
+- 👯 Working on [React Js](https://reactjs.org/) [NodeJs](https://nodejs.dev/) and [React Native](https://reactnative.dev/).
+- 🌌 Try to learn AWS, Deno and Web3.
 - 💬 Love programming ? Have some queries ?. 👇
 - 📫 You can find me on my [portfolio site](http://pyraj.pythonanywhere.com/).
 
