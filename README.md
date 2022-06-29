@@ -1,4 +1,4 @@
-### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am [Raj Kar](http://pyraj.pythonanywhere.com/), a final year student pursuing BCA from Dr. B C Roy Engineering College - Durgapur.
+### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> I am [Raj Kar](http://pyraj.pythonanywhere.com/), a final year student pursuing BCA from Dr. B C Roy Engineering College - Durgapur.
 
 <img width="170px" height="170px" align="right" src="https://i.ibb.co/M5Vw6W7/animation-200-kngjsuoz.gif" alt="programmer">
 
