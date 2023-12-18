@@ -4,5 +4,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raj-kar&label=Views&color=blue&style=plastic" alt="Raj Kar Profile view" /> </p>
 
-- Technical Lead
 - Working with React, NextJs, Node, Typescript, Supabase, PostgreSql. 
