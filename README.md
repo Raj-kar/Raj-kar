@@ -1,6 +1,6 @@
 <!-- 👨‍💻 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%9A%80+Hey+there%2C+I'm+Raj+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%9C%A8;-Tech+Lead+%7C+Software+Engineer+%7C+Code+Juggler+%E2%81%89%EF%B8%8F;-------Building+cool+things...+breaking+even+cooler+ones!+%F0%9F%A4%93" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%9A%80+Hey+there%2C+I'm+Raj+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%9C%A8;-Tech+Lead+%7C+Software+Engineer+%7C+Code+Juggler+%E2%81%89%EF%B8%8F;Building+cool+things...;Breaking+even+cooler+ones!+%F0%9F%A4%93" />
 </p>
 
 <p align="center">
