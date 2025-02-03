@@ -1,4 +1,4 @@
-### 🚀 Hey there, I'm Raj 👩‍💻✨  
+### 🚀 Hey there, I'm Raj 👨‍💻✨  
 
 Tech Lead | Software Engineer | Full-time Code Juggler 🤹‍♀️  
 
