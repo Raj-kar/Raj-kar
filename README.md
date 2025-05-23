@@ -38,4 +38,11 @@
 
 ---
 
+### 🌐 **Find Me Online**
+- 🚀 Portfolio: [raj-kar.vercel.app](https://raj-kar.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/raj-kar-40b7281a3](https://www.linkedin.com/in/raj-kar-40b7281a3/)
+- 🧠 GitHub: [github.com/Raj-kar](https://github.com/Raj-kar)
+
+---
+
 ### 💡 **Got a cool idea? Make sure it scales first. Then we’ll talk. 🚀**
