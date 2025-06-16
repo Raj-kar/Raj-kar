@@ -12,7 +12,6 @@
 ## 💻 **Day-to-Day Stack**  
 - ☕ **React.js & Node.js** (because sleep is overrated)  
 - ⚡ **Next.js** (for side projects that *might* get finished... one day 😅)  
-- 🐍 **Django** (mostly when my colleague drags me into debugging their bug 🫠)  
 - ☁ **AWS | Alibaba Cloud | Docker | Git** (because version control chaos is real)  
 - 🛢 **MongoDB & Firebase** (day-to-day survival), **Supabase** (because who has time to build auth from scratch? 😵‍💫)  
 
@@ -39,9 +38,9 @@
 ---
 
 ### 🌐 **Find Me Online**
-- 🚀 Portfolio: [raj-kar.vercel.app](https://raj-kar.vercel.app/)
+- 🚀 Portfolio: [raj-kar.vercel.app](https://rajkar.me/)
 - 💼 LinkedIn: [linkedin.com/in/raj-kar-40b7281a3](https://www.linkedin.com/in/raj-kar-40b7281a3/)
-- 🧠 GitHub: [github.com/Raj-kar](https://github.com/Raj-kar)
+- 🧠 Contact: [contact@rajkar.me](contact@rajkar.me)
 
 ---
 
