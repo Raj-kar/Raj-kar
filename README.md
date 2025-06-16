@@ -40,7 +40,7 @@
 ### 🌐 **Find Me Online**
 - 🚀 Portfolio: [raj-kar.vercel.app](https://rajkar.me/)
 - 💼 LinkedIn: [linkedin.com/in/raj-kar-40b7281a3](https://www.linkedin.com/in/raj-kar-40b7281a3/)
-- 🧠 Contact: [contact@rajkar.me](contact@rajkar.me)
+- 🧠 Contact: [contact@rajkar.me](mailto:contact@rajkar.me)
 
 ---
 
