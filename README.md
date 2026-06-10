@@ -1,47 +1,32 @@
-<!-- 👨‍💻 Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%9A%80+Hey+there%2C+I'm+Raj+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%9C%A8;-Tech+Lead+%7C+Software+Engineer+%7C+Code+Juggler+%E2%81%89%EF%B8%8F;Building+cool+things...;Breaking+even+cooler+ones!+%F0%9F%A4%93" />
-</p>
+# Raj Kar
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raj-Kar&style=flat-square&color=00FFD1" alt="profile-views" />
-</p>
+Tech Lead at [Metafic](https://metafic.co). I take client projects from spec to production — React and Next.js on the front, Node.js and Rails services behind them, deployed on AWS. I also run our technical interviews and review most of the code that ships.
 
----
+Most of my work is the unglamorous kind: profiling slow pages, untangling legacy modules, designing APIs that survive scope changes.
 
-## 💻 **Day-to-Day Stack**  
-- ☕ **React.js & Node.js** (because sleep is overrated)  
-- ⚡ **Next.js** (for side projects that *might* get finished... one day 😅)  
-- ☁ **AWS | Alibaba Cloud | Docker | Git** (because version control chaos is real)  
-- 🛢 **MongoDB & Firebase** (day-to-day survival), **Supabase** (because who has time to build auth from scratch? 😵‍💫)  
+**Currently:** leading development on [Dallal](https://rajkar.dev/work/dallal) — a real-estate marketplace for Kuwait, across web (React), mobile (React Native), and a Rails backend in two languages.
 
----
+## Stack
 
-## 💼 **Day-to-Day Work**  
-- 🛠 Building cool things, breaking even cooler things, and occasionally pushing code that actually works.  
-- 👀 Probably debugging in the console right now...  
+- **Frontend** — React, Next.js, TypeScript, React Native, Tailwind CSS, Zustand, React Query
+- **Backend** — Node.js, Express, Ruby on Rails, GraphQL, REST, WebSockets
+- **Data & Cloud** — AWS, PostgreSQL, MongoDB, Redis, Supabase, Firebase, Docker
 
----
+## Selected work
 
-## 📌 **Fun facts:**  
-- 🎯 **90% of my commits** are focused on **optimizing performance & scalability** 🚀  
-- 🔍 The other **10%** are **code reviews and debugging edge cases** 🧐  
-- 🕒 **100% of them** are pushed at **2 AM** ⏳💀  
+- **[Dallal](https://rajkar.dev/work/dallal)** — Kuwait real-estate marketplace: map-based search, in-app chat, broker workflows. React · React Native · Rails
+- **[code.rajkar.dev](https://rajkar.dev/work/code-rajkar-dev)** — real-time collaborative coding interview platform with live cursors and session control. Built it because CodeSandbox killed live collab. Next.js · WebSockets · PartyKit
+- **[Geetly](https://rajkar.dev/work/geetly)** — ad-free music streaming, designed and shipped solo. Next.js · Supabase
+- **[Caprics School](https://rajkar.dev/work/caprics-school)** — EdTech platform with interactive learning and course management. React · Node.js · MongoDB
 
----
+More case studies at [rajkar.dev/work](https://rajkar.dev/work).
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raj-Kar&show_icons=true&theme=radical&hide_border=true" width="50%" />
-</p>
+## Writing
 
----
+- [I Built My Own CodeSandbox Because Real-Time Collaboration Died](https://rajkar.dev/blog/i-built-my-own-codesandbox-for-interviews) — why and how I built a live coding interview platform.
 
-### 🌐 **Find Me Online**
-- 🚀 Portfolio: [rajkar.me](https://rajkar.me/)
-- 💼 LinkedIn: [linkedin.com/in/raj-kar-40b7281a3](https://www.linkedin.com/in/raj-kar-40b7281a3/)
-- 🧠 Contact: [contact@rajkar.me](mailto:contact@rajkar.me)
+## Find me
 
----
-
-### 💡 **Got a cool idea? Make sure it scales first. Then we’ll talk. 🚀**
+- Portfolio — [rajkar.dev](https://rajkar.dev)
+- LinkedIn — [linkedin.com/in/raj-kar-40b7281a3](https://www.linkedin.com/in/raj-kar-40b7281a3/)
+- Email — [contact@rajkar.dev](mailto:contact@rajkar.dev)
